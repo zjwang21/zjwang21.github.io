@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in School of Computer Science and Technology, Nanjing University, also a member of [NJU NLP Group](https://nlp.nju.edu.cn/homepage/), [advised by Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/).
+I am a master student in School of Computer Science and Technology, Nanjing University, also a member of [NJU NLP Group](https://nlp.nju.edu.cn/homepage/), advised by [Shu-Jian Huang](http://nlp.nju.edu.cn/huangsj/).
 
 Previously, I have done research intern at Institute of Computing and Intelligence, Harbin Institute of Technology, Shenzhen, China, 
 supervised by [Xuebo Liu](https://sunbowliu.github.io/), and [Min Zhang](https://zhangminsuda.github.io/).
